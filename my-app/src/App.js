@@ -5,7 +5,7 @@ import PressureChart from './components/PressureChart';
 function App() {
   return (
     <div className="App">
-      wqdwqd
+    
       <PressureChart/>
     </div>
   );

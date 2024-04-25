@@ -42,7 +42,8 @@ const PressureChart = () => {
           data: [],
           borderColor: 'blue',
           borderWidth: 1,
-          fill: 'start' // Fill the area under the line
+          fill: 'start', // Fill the area under the line,
+          backgroundColor:"blue"
         }]
       },
       options: {
